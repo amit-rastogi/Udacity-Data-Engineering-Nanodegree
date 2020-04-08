@@ -1,4 +1,4 @@
-Data Engineering Capstone Project
+#### Data Engineering Capstone Project
 
 The project builds a data warehouse in AWS Redshift from the Movielens dataset. This data warehouse could be used by the data analysts and machine learning engineers to perform data analysis using OLAP cubes or build a movie recommendation system.
 
